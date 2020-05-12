@@ -220,10 +220,7 @@ Every TIBCO product can integrate with any other capability found in the TIBCO p
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Copy-of1.png "image_tooltip")
+<img src=images/image125.png width="80%">
 
 
 
