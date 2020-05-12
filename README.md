@@ -226,7 +226,7 @@ Every TIBCO product can integrate with any other capability found in the TIBCO p
 
 
 
-<img src=images/image137.png width="80%">
+<img src=images/image167.png width="80%">
 
 
 
