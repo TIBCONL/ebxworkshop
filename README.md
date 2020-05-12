@@ -281,10 +281,8 @@ Everything you need is built-in and available in one unified software. No need t
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src=images/image168.png width="80%">
 
-
-![alt_text](images/Copy-of2.png "image_tooltip")
 
 
 **Master Data Management**
