@@ -179,7 +179,7 @@ TIBCO Software helps you to unlock your potential of real-time data for faster, 
 
 
 
-<img src=images/image25.png width="80%">
+<img src=images/image143.png width="80%">
 
 
 
