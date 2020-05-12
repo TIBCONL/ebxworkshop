@@ -400,12 +400,9 @@ Let’s click on the Company domain to illustrate EBX user interface features.
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
-The right part of the screen is the associated content. In this example, a list of companies, and all the available features.
+<img src="/images/image143.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 
