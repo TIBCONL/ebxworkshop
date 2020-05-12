@@ -179,12 +179,7 @@ TIBCO Software helps you to unlock your potential of real-time data for faster, 
 
 
 
-<img src="https://github.com/TIBCONL/ebxworkshop/blob/master/images/image143.png?raw=true"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
-
-![alt_text](images/Copy-of0.png "image_tooltip")
+<img src=images/image25.png width="80%">
 
 
 
