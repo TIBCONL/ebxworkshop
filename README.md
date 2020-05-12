@@ -195,9 +195,13 @@ Predict. Seamlessly connect any application, device or data source. Make sure th
 
 Connect all your data sources, appli-cations and people by means of API-led integration, irrespective of them being on-premise, or in the cloud. We enable developers and business users to build event-driven applications faster using new architecture patterns and low-code visual design tools to enable digital transformation. 
 
+<img src=images/image125.png width="80%">
+
 **Unify**
 
 Intelligent gathering of data for better access, trust, transparency and control. Prepare your company with the trusted data you need to win. 
+
+<img src=images/image89.png width="80%">
 
 Digital organizations rely on data to stimulate exciting customer experiences, optimized business processes and innovative products. But to provide your business with the trusted data it needs to compete, is a huge challenge that is complicated by the demand for data and accelerated data silos.
 
@@ -206,6 +210,8 @@ With TIBCO Unify solutions you can optimize your data value chain and easily acc
 **Predict**
 
 Predict with confidence with real-time data-driven intelligence. Identify insights in real time, use intelligence for informed decision making and achieve better business results.
+
+<img src=images/image137.png width="80%">
 
 Successful modern organizations use the power of analysis and data science to extract meaningful intelligence and insights from data and to predict what will happen. By predicting and exploiting the opportunities discovered, these organizations innovate and optimize their organization, deliver great customer experiences and win in their markets.
 
@@ -220,7 +226,7 @@ Every TIBCO product can integrate with any other capability found in the TIBCO p
 
 
 
-<img src=images/image125.png width="80%">
+<img src=images/image137.png width="80%">
 
 
 
