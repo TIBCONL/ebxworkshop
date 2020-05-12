@@ -28,7 +28,7 @@ TIBCO Software helps you to unlock your potential of real-time data for faster, 
 
 
 
-<img src=images/image165.png width="80%">
+<img src=images/image001.png width="80%">
 
 
 
@@ -44,13 +44,13 @@ Predict. Seamlessly connect any application, device or data source. Make sure th
 
 Connect all your data sources, appli-cations and people by means of API-led integration, irrespective of them being on-premise, or in the cloud. We enable developers and business users to build event-driven applications faster using new architecture patterns and low-code visual design tools to enable digital transformation. 
 
-<img src=images/image125.png width="80%">
+<img src=images/image003.png width="80%">
 
 **Unify**
 
 Intelligent gathering of data for better access, trust, transparency and control. Prepare your company with the trusted data you need to win. 
 
-<img src=images/image89.png width="80%">
+<img src=images/image005.png width="80%">
 
 Digital organizations rely on data to stimulate exciting customer experiences, optimized business processes and innovative products. But to provide your business with the trusted data it needs to compete, is a huge challenge that is complicated by the demand for data and accelerated data silos.
 
@@ -60,7 +60,7 @@ With TIBCO Unify solutions you can optimize your data value chain and easily acc
 
 Predict with confidence with real-time data-driven intelligence. Identify insights in real time, use intelligence for informed decision making and achieve better business results.
 
-<img src=images/image137.png width="80%">
+<img src=images/image007.png width="80%">
 
 Successful modern organizations use the power of analysis and data science to extract meaningful intelligence and insights from data and to predict what will happen. By predicting and exploiting the opportunities discovered, these organizations innovate and optimize their organization, deliver great customer experiences and win in their markets.
 
@@ -75,7 +75,7 @@ Every TIBCO product can integrate with any other capability found in the TIBCO p
 
 
 
-<img src=images/image167.png width="80%">
+<img src=images/image009.png width="80%">
 
 
 
@@ -94,7 +94,7 @@ MDM improves data quality, enables consistency, supports workforce collaboration
 
 Master data is only one type of shared data asset in your organization. Other data assets include public and private forms of reference data and physical and business metadata. These data assets are all intrinsically linked so you'll need a solution that replaces the legacy, siloed application approach to data management with a unified data management architecture, where you can manage and share all data.
 
-<img src=images/image134.png width="80%">
+<img src=images/image011.png width="80%">
 
 TIBCO EBX supports all enterprise data-driven use cases. Business processes come in multiple flavors. Operational business processes knit together the activities of the organization to create value. Analytical processes evaluate the performance of operations. And, governance processes control analytical and operational processes to ensure compliance with policies, regulations and laws. While each process type has different aims, their one commonality: data assets power them all. 
 
@@ -109,7 +109,7 @@ Your business teams need to manage and share a vast number of data assets—mast
 
 EBX makes it easier to manage your data assets. Custom applications and purpose-built MDM solutions are hard to change while EBX is flexible and agile. EBX uses a unique what-you-model-is-what-you-get design approach, with applications generated on the fly and fully configurable. This eliminates the need for long, costly, and endless development projects. And EBX includes all the enterprise-class capabilities you need to create data-driven applications. Data stewardship, workflow, data quality and data integration are built right in.
 
- <img src=images/image135.png width="80%">
+ <img src=images/image013.png width="80%">
  
 
 
@@ -119,7 +119,7 @@ EBX makes it easier to manage your data assets. Custom applications and purpose-
 
 With EBX, you use a model-driven approach to design data management applications. Then configure only the features you need. Model-driven design simplifies change management. Updates require configuration changes, not coding.
 
- <img src=images/image139.png width="80%">
+ <img src=images/image015.png width="80%">
 
 Everything you need is built-in and available in one unified software. No need to install multiple proprietary toolkits. When publishing changes to your models and configurations, the EBX engine instantiates the underlying data storage, user interfaces, policies and data services
 
@@ -130,7 +130,7 @@ Everything you need is built-in and available in one unified software. No need t
 
 
 
-<img src=images/image168.png width="99%">
+<img src=images/image017.png width="99%">
 
 
 
@@ -229,7 +229,7 @@ After the presentation you will be able to see an incoming email.
 
 In your email you will receive a personal link for the webinar. Click on the link:
 
-<img src=images/image169.png width="80%">
+<img src=images/image020.png width="80%">
 
 
 Congratulations! Let’s start the exercises in EBX.
@@ -244,39 +244,32 @@ Congratulations! Let’s start the exercises in EBX.
 
 Let’s click on the Company domain to illustrate EBX user interface features.
 
-<img src=images/image148.png width="80%">
+<img src=images/image022.png width="80%">
 
 The right part of the screen is the associated content. In this example, a list of companies, and all the available features.
 
-<img src=images/image149.png width="80%">
+<img src=images/image024.png width="80%">
 
 On this example, we have 445 companies.
 
-<img src=images/image146.png width="80%">
+<img src=images/image026.png width="80%">
 
 This screen is automatically generated by EBX, because it’s a model driven tool.
 
 It means that you can exactly define the structure (the model) of the information that you want to manage. To do this, the first step is to define a company in our context. 
 
-<img src=images/image147.png width="80%">
+<img src=images/image028.png width="80%">
 
 In this example, we have defined that a company is composed of: an MDM Id, a Name, a Legal Entity Identifier, a Main activity sector, a Parent, ...
 
 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image030.png width="80%">
 
 This part of the screen is called the “toolbar”. EBX generates a default toolbar, but you can as well configure your own, for example to place links to custom features.
 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png) 
+<img src=images/image032.png width="80%">
 
 
 
@@ -284,21 +277,14 @@ But EBX does not only generate the user interface. It also generates features to
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image034.png width="80%">
 
 
 Here are some features automatically generated by EBX. Of course, these features are based on the permissions (the access rights) of the user. You can compare records, create and update, physically delete, validate the compliance of your data based on the technical and business rules that you’ll have defined, etc.
 
 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image036.png width="80%">
 
 
 
