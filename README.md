@@ -130,7 +130,7 @@ Everything you need is built-in and available in one unified software. No need t
 
 
 
-<img src=images/image168.png width="80%">
+<img src=images/image168.png width="99%">
 
 
 
@@ -177,7 +177,7 @@ ATTENTION
 The environment you are using is a pre-configured EBX environment. It is just an example of how EBX can be used in a live environment.
 ```
 
-
+<img src=images/image164.png width="80%">
 
 
 
