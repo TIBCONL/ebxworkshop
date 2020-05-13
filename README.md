@@ -402,7 +402,7 @@ They’ll have the ability to export data from EBX, work on it in Excel, and fin
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image3.png width="60%">
 
 
 Another format is also available with Data Exchange but not configured here: SQL
@@ -411,7 +411,7 @@ You can import data from an external database, or even push data to another data
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image3.png width="60%">
 
 
 
@@ -421,35 +421,35 @@ Almost all the features available in the user interface are also exposed as Web 
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image3.png width="60%">
 
 Finally, additional integration capabilities can be added, thanks to the use of EBX public API (for example to call another application from EBX).
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image3.png width="60%">
 
 
 ## Task 4: Advanced Search
 
 Now let’s discuss about EBX search features. 
 
-<img src=images/image.png width="60%">
+<img src=images/image4.png width="60%">
 
 Different search mechanisms are available.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image1.png width="60%">
 
 The mono or multiple criteria search.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image2.png width="60%">
 
 Click here to add a search criterion.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image16.png width="60%">
 
 
 
