@@ -318,7 +318,7 @@ View History shows when the change was done and also what has been changed (high
 
 
 
-<img src=images/image20.png width="40%">
+<img src=images/image20.png width="60%">
 
 
 
@@ -329,10 +329,7 @@ Search filters are also available on the history.
 
 
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image21.png width="60%">
 
  
 
@@ -340,10 +337,7 @@ Criteria are available…
 
 
 
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image17.png width="60%">
 
 
 
@@ -351,19 +345,13 @@ But you can also do a search on the transaction date, for example to answer such
 
 
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image18.png width="60%">
 
 And even search based on the user or the application that has done the change.
 
 
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image38.png width="60%">
 
 
 
@@ -373,10 +361,7 @@ Finally, this history is also stored in EBX database, and fully available thanks
 
 
 
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Copy-of5.png "image_tooltip")
+<img src=images/image172.png width="60%">
 
 
 
@@ -388,11 +373,7 @@ Let’s go back to our main “Actions” menu.
 
 
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image6.png width="60%">
 
 
 Now, let’s speak about integration capabilities.
@@ -408,11 +389,7 @@ In terms of files, here is the list of supported formats:
 
 
 
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image5.png width="60%">
 
 
 Excel files are key for business users. 
@@ -425,11 +402,7 @@ They’ll have the ability to export data from EBX, work on it in Excel, and fin
 
 
 
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image.png width="60%">
 
 
 Another format is also available with Data Exchange but not configured here: SQL
@@ -438,10 +411,7 @@ You can import data from an external database, or even push data to another data
 
 
 
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 
 
@@ -451,58 +421,35 @@ Almost all the features available in the user interface are also exposed as Web 
 
 
 
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 Finally, additional integration capabilities can be added, thanks to the use of EBX public API (for example to call another application from EBX).
 
 
 
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 
 ## Task 4: Advanced Search
 
 Now let’s discuss about EBX search features. 
 
-
-
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 Different search mechanisms are available.
 
 
-
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 The mono or multiple criteria search.
 
 
-
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 Click here to add a search criterion.
 
 
-
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 
 
@@ -510,159 +457,84 @@ Each attribute of the underlying data model is available as a search criteria.
 
 For example, we can look for a company based on its name. 
 
-
-
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 Based on the attribute type, various operators are available.
 
 
-
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 
 
 Of course, you can combine the criteria. For example, we can also search on the Country.
 
-
-
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 As this attribute has been defined as a list of values in the data model, we can directly select among available values. 
 
-
-
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 
 
 But other search mechanisms are available, for example, what is called the “Text Search”. 
 
 
-
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 The user doesn’t have to know where the information is located. EBX will search in all available attributes. Be careful, by default here, no attributes are selected. Don’t forget to click on “Select all” if you want to illustrate this feature. 
 
-
-
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 The third type of search is called the “Validation Search”. When you define an EBX data model, you don’t only define the information structure. You can also define technical and business rules to validate the data quality. EBX provides a validation engine that will check in real-time that your data are compliant with these rules.
 
-
-
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image.png width="60%">
 
 
 Different severities can be defined for your rules. This feature allows you to directly filter on the validation result, based on the severity, or on the error message. Here EBX is telling that the data have not been validated. The reason is that the setting to automatically validate the data at startup has not been activated here, in order to reduce the EBX booting time. 
 
 
-
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 
 
 And finally, EBX also provides a “Fuzzy Search”. Here the idea is to retrieve data that are approximately what a user or an application has requested. 
 
-
-
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image.png width="60%">
 
 
 This search is fully configurable. You can choose the attributes on which the search should be done, the algorithms that should be used (based on phonetic, on distance, etc.), and also the minimum score that should be used by EBX to consider a potential match.
 
 
-
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 Let’s search for “paribas” and click on “Apply”. 
 
-
-
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 A list of results is displayed. 
 
 
-
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 Now, let’s switch one letter. Instead of “paribas”, let’s search for “paribos”. 
 
 
-
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 
 
 By clicking on “Apply”, you’ll see that the results will be the same. 
 
-
-
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 To make search features directly available for users, you can also configure a link in the perspective. 
 
-
-
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 The idea is to display something that is more familiar for business users.
 
 
-
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
 
 EBX keeps an history of the previous searches. It is important to quickly re-launch a previous search.
 
