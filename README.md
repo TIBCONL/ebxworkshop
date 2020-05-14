@@ -801,19 +801,19 @@ As you can see here, you can for example:
 
 These features are really useful, for example if you manage employees that are linked to business units, and you want to manage a company reorganization. Thanks to this capability you can quickly change the business unit of an employee selection.
 
-<img src=images/image.png width="60%">
+<img src=images/image153.png width="60%">
 
 
 At any time, authorized users can also create new views. To do that, they can go to the “View” menu, and click on “Create a new view”.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image120.png width="60%">
 
 
 You can document your view (for example to explain the purpose).
 
 
-<img src=images/image.png width="60%">
+<img src=images/image121.png width="60%">
 
 
 As users are usually part of a team, it can be useful to share the view definition to other users. It means that this view will then be available in the view menu for these users.
@@ -821,7 +821,7 @@ As users are usually part of a team, it can be useful to share the view definiti
 By default, users and roles are coming from EBX default directory. But of course, EBX can be plugged to any enterprise directory (AD, LDAP, ...)
 
 
-<img src=images/image.png width="60%">
+<img src=images/image118.png width="60%">
 
 
 Then we can select the view mode:
@@ -836,27 +836,27 @@ Here, we are going to use the 2nd mode.
 Select “Hierarchical view” and click on “Next”.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image119.png width="60%">
 
 
 EBX detects the potential dimensions that can be used (based on a data model introspection).
 
 
-<img src=images/image.png width="60%">
+<img src=images/image116.png width="60%">
 
 For example, let’s use the “Main activity sector”. It means that we want to group our companies per “Main activity sector”. 
 
-<img src=images/image.png width="60%">
+<img src=images/image117.png width="60%">
 
 Click on “Create and apply” and the view will be created.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image114.png width="60%">
 
 Our companies are now displayed using a new dimension.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image154.png width="60%">
 
 
 
@@ -867,7 +867,7 @@ As you have seen, hierarchical views are “mono dimensional”, because you alw
 Let’s go back to the default view, by clicking on Companies.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image115.png width="60%">
 
 
 ## Task 11: Visualize – value & relationship
@@ -875,22 +875,22 @@ Let’s go back to the default view, by clicking on Companies.
 Let’s select the first record.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image112.png width="60%">
 
 In the “Actions” menu, select Visualization->Display values and relationships.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image110.png width="60%">
 
 The selected record is displayed in the center of the page. Use the **right click** on the arrow to display the menu.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image111.png width="60%">
 
 Click on “Expand targets” to see all the relations that have been configured (The configuration is done in the administration part).
 
 
-<img src=images/image.png width="60%">
+<img src=images/image107.png width="60%">
 
 Here, we can see that the selected company is linked to:
 
@@ -900,17 +900,17 @@ Here, we can see that the selected company is linked to:
 *   And different sites through relations
 
 
-<img src=images/image.png width="60%">
+<img src=images/image109.png width="60%">
 
 To have a better understanding of this screen, you can click on “Tables”.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image105.png width="60%">
 
 Here you can see the meaning of each color (please keep in mind that this is fully configurable). In terms of visualization, another feature is available, to understand the underlying data structure, the data model.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image106.png width="60%">
 
 
 
@@ -919,18 +919,18 @@ Here you can see the meaning of each color (please keep in mind that this is ful
 It’s available at the table level
 
 
-<img src=images/image.png width="60%">
+<img src=images/image103.png width="60%">
 
 Thanks to this feature you can understand the objects, attributes, and relations that you have between your objects.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image155.png width="60%">
 
 
 And you have access to a lot of features: zoom in/out, filters, export, ...
 
 
-<img src=images/image.png width="60%">
+<img src=images/image104.png width="60%">
 
 
 
@@ -939,7 +939,7 @@ So, we have seen that EBX can provide different ways to see your data (tabular, 
 Let’s see some examples. Click on “Companies”.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image155.png width="60%">
 
 
 
@@ -956,7 +956,7 @@ To change the data model, you need to change perspective first.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image156.png width="60%">
 
 
 
@@ -964,27 +964,27 @@ To change the data model, you need to change perspective first.
 In this new perspective modify the database by selecting [CPTY] Companies.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image157.png width="60%">
 
 
 The table [CPTY] Companies shows you information about the defined attributes for the table, used Roles, Reference data and Technical data. Select Companies to see the defined attributes.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image158.png width="60%">
 
 
 
 Now you see the content of the table. Shown are the grouped fields referring to Identification, Additional information, Address et cetera.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image159.png width="60%">
 
 
 Create a new field under the Group ‘Addition information’ after the last existing field.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image161.png width="60%">
 
 
 
@@ -1130,22 +1130,14 @@ We are directly positioned to the companies starting with the “J” letter. Le
 
 
 
-<p id="gdcalert128" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert129">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image.png width="60%">
 
 
 Here we manage a list of “Burgers”. Let’s double click on the first line to access the record details.
 
 
 
-<p id="gdcalert129" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of37.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert130">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Copy-of37.png "image_tooltip")
-
+<img src=images/image.png width="60%">
 
 
 
@@ -1157,45 +1149,27 @@ They are stored in a “Drive”, which is by default a folder on the applicatio
 
 
 
-<p id="gdcalert130" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert131">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image.png width="60%">
 
 
 But here, what we want to illustrate is a feature that is not “out-of-the-box”. If you remember, we presented the history feature, to display the audit trail. This screen is sometimes a bit too complicated for a business user, because it displays technical information. Thanks to the EBX public API, we can make it user friendly. Please click on this button.
 
 
 
-<p id="gdcalert131" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert132">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
-
+<img src=images/image.png width="60%">
 
 Here we can easily understand what happened. And it’s also possible to understand what happened in terms of relations. Click on the “Ingredients - Products - History” tab, to understand how the ingredients were added to this product.
 
 
 
-<p id="gdcalert132" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert133">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image.png width="60%">
 
 
 Here we can easily understand what happened, i.e, how the product was built. Let’s see another example of what you can do with the public API. The feature is available at the “Products” table level.
 
 
 
-<p id="gdcalert133" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert134">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
-
+<img src=images/image.png width="60%">
 
 
 ## Task 2: Products – mosaic
@@ -1204,21 +1178,12 @@ Let’s launch the feature called “Mozaic”
 
 
 
-<p id="gdcalert134" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert135">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image.png width="60%">
 
 
 This is another way to display the data. The idea here is to display the products by using the associated picture. You can click on a picture to access the product details. But let’s go back to the “Products” and see a final example.
 
-<p id="gdcalert135" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert136">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
-
+<img src=images/image.png width="60%">
 
 
 ## Task 3: Products – compare
@@ -1227,19 +1192,15 @@ Select some products.
 
 
 
-<p id="gdcalert136" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert137">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src=images/image.png width="60%">
 
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
 
 In the “Actions” menu, select “Compare products”.
 
 
 
-<p id="gdcalert137" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert138">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src=images/image.png width="60%">
 
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
 
 Out-of-the-box, EBX provides a comparison feature. But this feature has some limitations:
 
@@ -1252,13 +1213,7 @@ Out-of-the-box, EBX provides a comparison feature. But this feature has some lim
 So, the idea here is to mimic what you can find on Web Sites (like Amazon for example).
 
 
-
-<p id="gdcalert138" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of38.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert139">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Copy-of38.png "image_tooltip")
-
-
+<img src=images/image.png width="60%">
 
 
 Now, let’s illustrate another EBX feature, which is about KPIs and Dashboard management.
@@ -1267,11 +1222,7 @@ Click on “Dashboard”, located under “Companies”.
 
 
 
-<p id="gdcalert139" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert140">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image.png width="60%">
 
 
 
@@ -1292,30 +1243,15 @@ These indicators are basically on 2 things:
 *   The activity (Average Workflow execution time, Longest task in a Workflow) 
 
 
-
-<p id="gdcalert140" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert141">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
-
+<img src=images/image.png width="60%">
 
 The idea is that you can place these KPIs wherever you want, define when they should be computed (real-time when a dashboard is displayed, on-demand, …), and then configure Dashboards to directly display the KPI results. Each user can have access to multiple Dashboards. To go further, you can also code your own KPIs and add them to the library.
 
 
 
-<p id="gdcalert141" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert142">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
+<img src=images/image.png width="60%">
 
 
 As the KPI results are stored in the database, they can be accessed directly at the database level using SQL requests, for example to feed Analytics solutions or any other application.
 
-
-
-<p id="gdcalert142" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert143">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+<img src=images/image.png width="60%">
