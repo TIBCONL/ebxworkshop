@@ -717,29 +717,29 @@ Hierarchies are computed on the fly, based on the data and the relations. In the
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image176.png width="60%">
 
 A level can be easily expanded.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image77.png width="60%">
 Any level that contains some elements can be expanded. Here, we can also notice that a lot of countries does not have any counterparties related. So, we can ask EBX to “clean” this view to only display countries that have some counterparties attached. 
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image78.png width="60%">
 
 To only display elements that have “children” is what we call the “Pruned mode”.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image76.png width="60%">
 
 Only relevant countries are displayed. But we can also use other dimensions to display the data, to have another point of view on the data.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image177.png width="60%">
 
 
 
@@ -748,13 +748,13 @@ Only relevant countries are displayed. But we can also use other dimensions to d
 Let’s use the “Subsidiary View”. We want to see how our companies are related and have a different “angle” on the data.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image122.png width="60%">
 
 The same data are displayed using another dimension. It’s another point of view on the data.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image178.png width="60%">
 
 
 Important facts on hierarchy:
@@ -767,7 +767,7 @@ Important facts on hierarchy:
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image180.png width="60%">
 
 
 
@@ -775,7 +775,7 @@ Another important thing is that hierarchies are not only a way to visualize data
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image123.png width="60%">
 
 
 
@@ -791,7 +791,7 @@ As you can see here, you can for example:
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image153.png width="60%">
 
 
 
