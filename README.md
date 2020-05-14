@@ -457,84 +457,84 @@ Each attribute of the underlying data model is available as a search criteria.
 
 For example, we can look for a company based on its name. 
 
-<img src=images/image.png width="60%">
+<img src=images/image61.png width="60%">
 
 Based on the attribute type, various operators are available.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image62.png width="60%">
 
 
 
 Of course, you can combine the criteria. For example, we can also search on the Country.
 
-<img src=images/image.png width="60%">
+<img src=images/image59.png width="60%">
 
 As this attribute has been defined as a list of values in the data model, we can directly select among available values. 
 
-<img src=images/image.png width="60%">
+<img src=images/image60.png width="60%">
 
 
 
 But other search mechanisms are available, for example, what is called the “Text Search”. 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image57.png width="60%">
 
 The user doesn’t have to know where the information is located. EBX will search in all available attributes. Be careful, by default here, no attributes are selected. Don’t forget to click on “Select all” if you want to illustrate this feature. 
 
-<img src=images/image.png width="60%">
+<img src=images/image58.png width="60%">
 
 The third type of search is called the “Validation Search”. When you define an EBX data model, you don’t only define the information structure. You can also define technical and business rules to validate the data quality. EBX provides a validation engine that will check in real-time that your data are compliant with these rules.
 
-<img src=images/image.png width="60%">
+<img src=images/image55.png width="60%">
 
 
 Different severities can be defined for your rules. This feature allows you to directly filter on the validation result, based on the severity, or on the error message. Here EBX is telling that the data have not been validated. The reason is that the setting to automatically validate the data at startup has not been activated here, in order to reduce the EBX booting time. 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image56.png width="60%">
 
 
 
 And finally, EBX also provides a “Fuzzy Search”. Here the idea is to retrieve data that are approximately what a user or an application has requested. 
 
-<img src=images/image.png width="60%">
+<img src=images/image54.png width="60%">
 
 
 This search is fully configurable. You can choose the attributes on which the search should be done, the algorithms that should be used (based on phonetic, on distance, etc.), and also the minimum score that should be used by EBX to consider a potential match.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image54.png width="60%">
 
 Let’s search for “paribas” and click on “Apply”. 
 
-<img src=images/image.png width="60%">
+<img src=images/image48.png width="60%">
 
 A list of results is displayed. 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image46.png width="60%">
 
 Now, let’s switch one letter. Instead of “paribas”, let’s search for “paribos”. 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image47.png width="60%">
 
 
 
 By clicking on “Apply”, you’ll see that the results will be the same. 
 
-<img src=images/image.png width="60%">
+<img src=images/image43.png width="60%">
 
 To make search features directly available for users, you can also configure a link in the perspective. 
 
-<img src=images/image.png width="60%">
+<img src=images/image44.png width="60%">
 
 The idea is to display something that is more familiar for business users.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image42.png width="60%">
 
 EBX keeps an history of the previous searches. It is important to quickly re-launch a previous search.
 
