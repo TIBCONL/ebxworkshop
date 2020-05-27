@@ -343,14 +343,6 @@ Criteria are available…
 
 But you can also do a search on the transaction date, for example to answer such question: “What are the changes that have been done last month?”
 
-img[src~="images/image055.png"] {
-   width:100%;
-}
-img[src~="bordered"] {
-   border: 1px solid black;
-}
-
-
 <img src=images/image055.png width="100%">
 
 And even search based on the user or the application that has done the change.
