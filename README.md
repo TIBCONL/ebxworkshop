@@ -329,7 +329,7 @@ Search filters are also available on the history.
 
 
 
-<img src=images/image51.png width="80%">
+<img src=images/image051.png width="80%">
 
  
 
@@ -337,7 +337,7 @@ Criteria are available…
 
 
 
-<img src=images/imag53.png width="80%">
+<img src=images/imag053.png width="80%">
 
 
 
@@ -345,7 +345,7 @@ But you can also do a search on the transaction date, for example to answer such
 
 
 
-<img src=images/image55.png width="80%">
+<img src=images/image055.png width="80%">
 
 And even search based on the user or the application that has done the change.
 
