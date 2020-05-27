@@ -298,7 +298,7 @@ This feature gives you an access to the audit trail. Whenever something happens 
 
 
 
-<img src=images/image043.png width="100%">
+<img src=images/image043.png width="100%" border: 1px solid blue;>
 
 
 
