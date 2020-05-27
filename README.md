@@ -318,7 +318,7 @@ View History shows when the change was done and also what has been changed (high
 
 
 
-<img src=images/image49.png width="80%">
+<img src=images/image47.png width="80%">
 
 
 
@@ -337,7 +337,7 @@ Criteria are available…
 
 
 
-<img src=images/image53.png width="80%">
+<img src=images/imag53.png width="80%">
 
 
 
