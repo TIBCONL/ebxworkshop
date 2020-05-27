@@ -345,7 +345,7 @@ But you can also do a search on the transaction date, for example to answer such
 
 
 
-<img src=images/image055.png width="100%">
+<img src=images/image055.png width="100%" border: 1px solid blue>
 
 And even search based on the user or the application that has done the change.
 
