@@ -373,7 +373,7 @@ Let’s go back to our main “Actions” menu.
 
 
 
-<img src=images/image061.png width="60%">
+<img src=images/image061.png width="80%">
 
 
 Now, let’s speak about integration capabilities.
@@ -389,7 +389,7 @@ In terms of files, here is the list of supported formats:
 
 
 
-<img src=images/image063.png width="60%">
+<img src=images/image063.png width="80%">
 
 
 Excel files are key for business users. 
@@ -402,7 +402,7 @@ They’ll have the ability to export data from EBX, work on it in Excel, and fin
 
 
 
-<img src=images/image065.png width="60%">
+<img src=images/image065.png width="80%">
 
 
 Another format is also available with Data Exchange but not configured here: SQL
@@ -411,7 +411,7 @@ You can import data from an external database, or even push data to another data
 
 
 
-<img src=images/image067.png width="60%">
+<img src=images/image067.png width="80%">
 
 
 
