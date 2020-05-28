@@ -292,13 +292,13 @@ Let’s take a look at the feature called “View history”.
 
 
 
-<img src=images/image041.png width="100%">
+<img src=images/image039.png width="100%">
 
 This feature gives you an access to the audit trail. Whenever something happens inside EBX (creation, update, deletion), the effect is shown here.
 
 
 
-<img src=images/image043.png width="100%">
+<img src=images/image041.png width="100%">
 
 
 
@@ -306,11 +306,11 @@ Thanks to this feature you can understand not only what has been done...
 
 
 
-<img src=images/image045.png width="100%">
+<img src=images/image043.png width="100%">
 
 … but also, who has done the change (the user or the application).  
 
-<img src=images/image047.png width="100%">
+<img src=images/image045.png width="100%">
  
 
 
@@ -318,7 +318,7 @@ View History shows when the change was done and also what has been changed (high
 
 
 
-<img src=images/image049.png width="100%">
+<img src=images/image047.png width="100%">
 
 
 
@@ -329,7 +329,7 @@ Search filters are also available on the history.
 
 
 
-<img src=images/image051.png width="100%">
+<img src=images/image049.png width="100%">
 
  
 
@@ -337,13 +337,13 @@ Criteria are available…
 
 
 
-<img src=images/image053.png width="100%">
+<img src=images/image051.png width="100%">
 
 
 
 But you can also do a search on the transaction date, for example to answer such question: “What are the changes that have been done last month?”
 
-<img src=images/image055.png width="100%">
+<img src=images/image053.png width="100%">
 
 And even search based on the user or the application that has done the change.
 
@@ -419,35 +419,35 @@ Almost all the features available in the user interface are also exposed as Web 
 
 
 
-<img src=images/image3.png width="60%">
+<img src=images/image067.png width="100%">
 
 Finally, additional integration capabilities can be added, thanks to the use of EBX public API (for example to call another application from EBX).
 
 
 
-<img src=images/image3.png width="60%">
+<img src=images/image069.png width="100%">
 
 
 ## Task 4: Advanced Search
 
 Now let’s discuss about EBX search features. 
 
-<img src=images/image4.png width="60%">
+<img src=images/image071.png width="100%">
 
 Different search mechanisms are available.
 
 
-<img src=images/image1.png width="60%">
+<img src=images/image073.png width="100%">
 
 The mono or multiple criteria search.
 
 
-<img src=images/image2.png width="60%">
+<img src=images/image075.png width="100%">
 
 Click here to add a search criterion.
 
 
-<img src=images/image16.png width="60%">
+<img src=images/image077.png width="100%">
 
 
 
@@ -455,59 +455,59 @@ Each attribute of the underlying data model is available as a search criteria.
 
 For example, we can look for a company based on its name. 
 
-<img src=images/image61.png width="60%">
+<img src=images/image079.png width="100%">
 
 Based on the attribute type, various operators are available.
 
 
-<img src=images/image62.png width="60%">
+<img src=images/image081.png width="100%">
 
 
 
 Of course, you can combine the criteria. For example, we can also search on the Country.
 
-<img src=images/image59.png width="60%">
+<img src=images/image083.png width="100%">
 
 As this attribute has been defined as a list of values in the data model, we can directly select among available values. 
 
-<img src=images/image60.png width="60%">
+<img src=images/image085.png width="100%">
 
 
 
 But other search mechanisms are available, for example, what is called the “Text Search”. 
 
 
-<img src=images/image57.png width="60%">
+<img src=images/image087.png width="100%">
 
 The user doesn’t have to know where the information is located. EBX will search in all available attributes. Be careful, by default here, no attributes are selected. Don’t forget to click on “Select all” if you want to illustrate this feature. 
 
-<img src=images/image58.png width="60%">
+<img src=images/image089.png width="100%">
 
 The third type of search is called the “Validation Search”. When you define an EBX data model, you don’t only define the information structure. You can also define technical and business rules to validate the data quality. EBX provides a validation engine that will check in real-time that your data are compliant with these rules.
 
-<img src=images/image55.png width="60%">
+<img src=images/image091.png width="100%">
 
 
 Different severities can be defined for your rules. This feature allows you to directly filter on the validation result, based on the severity, or on the error message. Here EBX is telling that the data have not been validated. The reason is that the setting to automatically validate the data at startup has not been activated here, in order to reduce the EBX booting time. 
 
 
-<img src=images/image56.png width="60%">
+<img src=images/image093.png width="100%">
 
 
 
 And finally, EBX also provides a “Fuzzy Search”. Here the idea is to retrieve data that are approximately what a user or an application has requested. 
 
-<img src=images/image54.png width="60%">
+<img src=images/image095.png width="100%">
 
 
 This search is fully configurable. You can choose the attributes on which the search should be done, the algorithms that should be used (based on phonetic, on distance, etc.), and also the minimum score that should be used by EBX to consider a potential match.
 
 
-<img src=images/image54.png width="60%">
+<img src=images/image097.png width="100%">
 
 Let’s search for “paribas” and click on “Apply”. 
 
-<img src=images/image48.png width="60%">
+<img src=images/image099.png width="100%">
 
 A list of results is displayed. 
 
