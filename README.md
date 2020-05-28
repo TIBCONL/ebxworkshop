@@ -177,7 +177,7 @@ ATTENTION
 The environment you are using is a pre-configured EBX environment. It is just an example of how EBX can be used in a live environment.
 ```
 
-<img src=images/image164a.png width="100%">
+<img src=images/image19.png width="100%">
 
 
 
