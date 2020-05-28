@@ -512,33 +512,33 @@ Let’s search for “paribas” and click on “Apply”.
 A list of results is displayed. 
 
 
-<img src=images/image46.png width="60%">
+<img src=images/image101.png width="100%">
 
 Now, let’s switch one letter. Instead of “paribas”, let’s search for “paribos”. 
 
 
-<img src=images/image47.png width="60%">
+<img src=images/image103.png width="100%">
 
 
 
 By clicking on “Apply”, you’ll see that the results will be the same. 
 
-<img src=images/image43.png width="60%">
+<img src=images/image105.png width="100%">
 
 To make search features directly available for users, you can also configure a link in the perspective. 
 
-<img src=images/image44.png width="60%">
+<img src=images/image107.png width="100%">
 
 The idea is to display something that is more familiar for business users.
 
 
-<img src=images/image42.png width="60%">
+<img src=images/image109.png width="100%">
 
 EBX keeps an history of the previous searches. It is important to quickly re-launch a previous search.
 
 
 
-<img src=images/image42.png width="60%">
+<img src=images/image111.png width="100%">
 
 
 
@@ -546,19 +546,19 @@ Users can also “Clear” the search history.
 
 
 
-<img src=images/image40.png width="60%">
+<img src=images/image113.png width="100%">
 
 Let’s search for “paribos” here as well. 
 
 
 
-<img src=images/image41.png width="60%">
+<img src=images/image115.png width="100%">
 
 
 Same results are displayed. Final words about search capabilities: they are also exposed as Web-Services, so external applications can call EBX in real-time and get exactly the same results. 
 
 
-<img src=images/image39.png width="60%">
+<img src=images/image117.png width="100%">
 
 
 
@@ -569,24 +569,24 @@ Let’s take a look at a record details, by clicking on it.
 
 
 
-<img src=images/image100.png width="60%">
+<img src=images/image119.png width="100%">
 
 This part of the screen displays the record information. It is based on the permissions of the user, meaning that he can only see what he has rights to see. 
 
 
 
-<img src=images/image101.png width="60%">
+<img src=images/image121.png width="100%">
 
 As you can see, attributes can be grouped, or even displayed in tabs. 
 
 
 
-<img src=images/image97.png width="60%">
+<img src=images/image123.png width="100%">
 On the left part you have the attributes. Each attribute has a type (String, Date, Decimal, …) and EBX automatically generates the associated graphical component. 
 
 
 
-<img src=images/image99.png width="60%">
+<img src=images/image125.png width="100%">
 
 
 
@@ -594,7 +594,7 @@ The “Name” for example here is a free text zone.
 
 
 
-<img src=images/image95.png width="60%">
+<img src=images/image127.png width="1040%">
 
 
 
@@ -605,7 +605,7 @@ But it’s not the case for the “Main activity sector” nor the “Parent”.
 
 
 
-<img src=images/image96.png width="60%">
+<img src=images/image129.png width="100%">
 
 
 
@@ -613,25 +613,25 @@ EBX automatically displays this kind of graphical component to let users choose 
 
 
 
-<img src=images/image93.png width="60%">
+<img src=images/image131.png width="100%">
 
 The list is dynamically filtered as soon as the user types something. 
 
 
 
-<img src=images/image94.png width="60%">
+<img src=images/image133.png width="100%">
 
 
 If he doesn’t find what is looking for, he can use the “Selector”.
 
 
-<img src=images/image91.png width="60%">
+<img src=images/image135.png width="100%">
 
 The list of all available values is displayed. Users can also benefit from EBX search features to select the right data. 
 
 
 
-<img src=images/image92.png width="60%">
+<img src=images/image137.png width="100%">
 
 
 
@@ -639,7 +639,7 @@ Let’s take a look at the “Parent” attribute. The meaning of this informati
 
 
 
-<img src=images/image86.png width="60%">
+<img src=images/image139.png width="100%">
 
 
 
@@ -647,7 +647,7 @@ If the user has the access rights, he can even directly add a new value in this 
 
 
 
-<img src=images/image84.png width="60%">
+<img src=images/image141.png width="100%">
 
 As you can see here, the information can be organized in different tabs.
 
@@ -655,7 +655,7 @@ Let’s take a look at the “Address” tab.
 
 
 
-<img src=images/image85.png width="60%">
+<img src=images/image143.png width="100%">
 
 
 
@@ -665,27 +665,27 @@ Even though EBX generates automatically the user interface, you still have the a
 
 
 
-<img src=images/image173.png width="60%">
+<img src=images/image145.png width="100%">
 
 
 You can also use an external provider to normalize the address. Enter an address in the dedicated field, it will be validated by the Google API.
 
 
 
-<img src=images/image174.png width="60%">
+<img src=images/image147.png width="100%">
 
 
 The address has been normalized, extra information has been added (Latitude and Longitude), and the map has been updated. Please keep in mind that this is just an example, but that this behavior can be implemented with any external service.
 
 
 
-<img src=images/image175.png width="60%">
+<img src=images/image149.png width="100%">
 
 
 Let’s go back to the table view by clicking on “Companies”.
 
 
-<img src=images/image82.png width="60%">
+<img src=images/image151.png width="100%">
 
 By default, EBX display your data using a tabular view (each line is a record).
 
@@ -693,7 +693,7 @@ But you can also change the way the information is displayed thanks to the “Vi
 
 
 
-<img src=images/image83.png width="60%">
+<img src=images/image153.png width="100%">
  
 
 
@@ -702,11 +702,11 @@ If you remember, relations between your objects can be defined on the data model
 
 
 
-<img src=images/image80.png width="60%">
+<img src=images/image155.png width="100%">
 
 Let’s use the first one, to display the companies using the “Country” dimension.
 
-<img src=images/image81.png width="60%">
+<img src=images/image157.png width="100%">
 
 
 ## Task 8: Hierarchies – country by regions
@@ -715,29 +715,29 @@ Hierarchies are computed on the fly, based on the data and the relations. In the
 
 
 
-<img src=images/image176.png width="60%">
+<img src=images/image159.png width="100%">
 
 A level can be easily expanded.
 
 
 
-<img src=images/image77.png width="60%">
+<img src=images/image161.png width="100%">
 Any level that contains some elements can be expanded. Here, we can also notice that a lot of countries does not have any counterparties related. So, we can ask EBX to “clean” this view to only display countries that have some counterparties attached. 
 
 
 
-<img src=images/image78.png width="60%">
+<img src=images/image163.png width="100%">
 
 To only display elements that have “children” is what we call the “Pruned mode”.
 
 
-<img src=images/image76.png width="60%">
+<img src=images/image165.png width="100%">
 
 Only relevant countries are displayed. But we can also use other dimensions to display the data, to have another point of view on the data.
 
 
 
-<img src=images/image177.png width="60%">
+<img src=images/image167.png width="100%">
 
 
 
@@ -746,13 +746,13 @@ Only relevant countries are displayed. But we can also use other dimensions to d
 Let’s use the “Subsidiary View”. We want to see how our companies are related and have a different “angle” on the data.
 
 
-<img src=images/image122.png width="60%">
+<img src=images/image169.png width="100%">
 
 The same data are displayed using another dimension. It’s another point of view on the data.
 
 
 
-<img src=images/image178.png width="60%">
+<img src=images/image171.png width="100%">
 
 
 Important facts on hierarchy:
@@ -765,7 +765,7 @@ Important facts on hierarchy:
 
 
 
-<img src=images/image180.png width="60%">
+<img src=images/image173.png width="100%">
 
 
 
@@ -773,7 +773,7 @@ Another important thing is that hierarchies are not only a way to visualize data
 
 
 
-<img src=images/image123.png width="60%">
+<img src=images/image175.png width="100%">
 
 
 
@@ -789,7 +789,7 @@ As you can see here, you can for example:
 
 
 
-<img src=images/image153.png width="60%">
+<img src=images/image177.png width="100%">
 
 
 
@@ -799,19 +799,19 @@ As you can see here, you can for example:
 
 These features are really useful, for example if you manage employees that are linked to business units, and you want to manage a company reorganization. Thanks to this capability you can quickly change the business unit of an employee selection.
 
-<img src=images/image153.png width="60%">
+<img src=images/image179.png width="100%">
 
 
 At any time, authorized users can also create new views. To do that, they can go to the “View” menu, and click on “Create a new view”.
 
 
-<img src=images/image120.png width="60%">
+<img src=images/image181.png width="100%">
 
 
 You can document your view (for example to explain the purpose).
 
 
-<img src=images/image121.png width="60%">
+<img src=images/image183.png width="100%">
 
 
 As users are usually part of a team, it can be useful to share the view definition to other users. It means that this view will then be available in the view menu for these users.
@@ -819,7 +819,7 @@ As users are usually part of a team, it can be useful to share the view definiti
 By default, users and roles are coming from EBX default directory. But of course, EBX can be plugged to any enterprise directory (AD, LDAP, ...)
 
 
-<img src=images/image118.png width="60%">
+<img src=images/image185.png width="100%">
 
 
 Then we can select the view mode:
@@ -834,27 +834,27 @@ Here, we are going to use the 2nd mode.
 Select “Hierarchical view” and click on “Next”.
 
 
-<img src=images/image119.png width="60%">
+<img src=images/image187.png width="100%">
 
 
 EBX detects the potential dimensions that can be used (based on a data model introspection).
 
 
-<img src=images/image116.png width="60%">
+<img src=images/image189.png width="100%">
 
 For example, let’s use the “Main activity sector”. It means that we want to group our companies per “Main activity sector”. 
 
-<img src=images/image117.png width="60%">
+<img src=images/image191.png width="100%">
 
 Click on “Create and apply” and the view will be created.
 
 
-<img src=images/image114.png width="60%">
+<img src=images/image193.png width="100%">
 
 Our companies are now displayed using a new dimension.
 
 
-<img src=images/image154.png width="60%">
+<img src=images/image195.png width="100%">
 
 
 
@@ -865,7 +865,7 @@ As you have seen, hierarchical views are “mono dimensional”, because you alw
 Let’s go back to the default view, by clicking on Companies.
 
 
-<img src=images/image115.png width="60%">
+<img src=images/image197.png width="100%">
 
 
 ## Task 11: Visualize – value & relationship
@@ -873,22 +873,22 @@ Let’s go back to the default view, by clicking on Companies.
 Let’s select the first record.
 
 
-<img src=images/image112.png width="60%">
+<img src=images/image199.png width="100%">
 
 In the “Actions” menu, select Visualization->Display values and relationships.
 
 
-<img src=images/image110.png width="60%">
+<img src=images/image201.png width="100%">
 
 The selected record is displayed in the center of the page. Use the **right click** on the arrow to display the menu.
 
 
-<img src=images/image111.png width="60%">
+<img src=images/image203.png width="100%">
 
 Click on “Expand targets” to see all the relations that have been configured (The configuration is done in the administration part).
 
 
-<img src=images/image107.png width="60%">
+<img src=images/image205.png width="100%">
 
 Here, we can see that the selected company is linked to:
 
@@ -898,17 +898,17 @@ Here, we can see that the selected company is linked to:
 *   And different sites through relations
 
 
-<img src=images/image109.png width="60%">
+<img src=images/image207.png width="100%">
 
 To have a better understanding of this screen, you can click on “Tables”.
 
 
-<img src=images/image105.png width="60%">
+<img src=images/image209.png width="100%">
 
 Here you can see the meaning of each color (please keep in mind that this is fully configurable). In terms of visualization, another feature is available, to understand the underlying data structure, the data model.
 
 
-<img src=images/image106.png width="60%">
+<img src=images/image211.png width="100%">
 
 
 
@@ -917,18 +917,18 @@ Here you can see the meaning of each color (please keep in mind that this is ful
 It’s available at the table level
 
 
-<img src=images/image103.png width="60%">
+<img src=images/image213.png width="100%">
 
 Thanks to this feature you can understand the objects, attributes, and relations that you have between your objects.
 
 
-<img src=images/image155.png width="60%">
+<img src=images/image215.png width="100%">
 
 
 And you have access to a lot of features: zoom in/out, filters, export, ...
 
 
-<img src=images/image104.png width="60%">
+<img src=images/image217.png width="100%">
 
 
 
@@ -937,7 +937,7 @@ So, we have seen that EBX can provide different ways to see your data (tabular, 
 Let’s see some examples. Click on “Companies”.
 
 
-<img src=images/image155.png width="60%">
+<img src=images/image219.png width="100%">
 
 
 
@@ -954,7 +954,7 @@ To change the data model, you need to change perspective first.
 
 
 
-<img src=images/image156.png width="60%">
+<img src=images/image221.png width="100%">
 
 
 
@@ -962,39 +962,39 @@ To change the data model, you need to change perspective first.
 In this new perspective modify the database by selecting [CPTY] Companies.
 
 
-<img src=images/image157.png width="60%">
+<img src=images/image223.png width=100%">
 
 
 The table [CPTY] Companies shows you information about the defined attributes for the table, used Roles, Reference data and Technical data. Select Companies to see the defined attributes.
 
 
-<img src=images/image158.png width="60%">
+<img src=images/image225.png width="100%">
 
 
 
 Now you see the content of the table. Shown are the grouped fields referring to Identification, Additional information, Address et cetera.
 
 
-<img src=images/image159.png width="60%">
+<img src=images/image227.png width="100%">
 
 
 Create a new field under the Group ‘Addition information’ after the last existing field.
 
 
 
-<img src=images/image161.png width="60%">
+<img src=images/image229.png width="100%">
 
 
 
 Add a new mandatory Date field ‘addInfoValDate’ and give it a label that will be show in the UI. Since EBX is multilingual labels can be added in different languages. 
 
-<img src=images/image.png width="60%">
+<img src=images/image231.png width="100%">
 
 After you ‘Create’ the new field it is now shown in the table. Besides the ‘Main’ information about the field, you have now the possibility to add ‘Simple controls’, ‘Advanced controls’ and ‘Advanced properties’ about this field.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image233.png width="100%">
 
 
 
@@ -1002,24 +1002,24 @@ After you ‘Create’ the new field it is now shown in the table. Besides the �
 Now add a validation rule on the field to make sure that the entered date from the UI needs to be equal or greater than today – the date of today will be showed.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image235.png width="100%">
 
 
 To be able to see and use this field make sure the right access properties are set. 
 
-<img src=images/image.png width="60%">
+<img src=images/image237.png width="100%">
 
 
 
 Now it is essential to publish the changed data model. 
 
-<img src=images/image.png width="60%">
+<img src=images/image239.png width="100%">
 
 This is done in a few steps where EBX shows what changes in which datasets are published.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image241.png width="100%">
 
 
 
@@ -1027,13 +1027,13 @@ Press Publish again.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image243.png width="100%">
 
 You are done! Your data model publication has succeeded. You can close now.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image245.png width="100%">
 
 
 ## Task 2: Data model – view updated data model
@@ -1042,13 +1042,13 @@ All the changes you have done can be viewed as well. Change your perspective bac
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image247.png width="100%">
 
 Select companies and look at the changed data model.
 
 
 
-<<img src=images/image.png width="60%">
+<<img src=images/image249.png width="100%">
 
 
 
@@ -1056,11 +1056,11 @@ Your data model looks like it did not change at all. Make sure you synchronize y
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image251.png width="100%">
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image253.png width="100%">
 
 
 
@@ -1068,7 +1068,7 @@ Click on the plus-sign in front of the ‘additional information’-group and yo
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image255.png width="100%">
 
 
 
@@ -1078,13 +1078,13 @@ Select a record in the companies table. You now see the new field ‘Valid Until
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image257.png width="100%">
 
 Enter the right value. See also what the format is of the field and ways there are to enter a value. 
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image259.png width="100%">
 
 
 # Guided Lab 4: Customer 
@@ -1095,12 +1095,12 @@ Enter the right value. See also what the format is of the field and ways there a
 We have here 2 examples of custom features to display the data. Let’s use the first one to start.
 
 
-<img src=images/image.png width="60%">
+<img src=images/image261.png width="100%">
 
 
 Custom view based with Google Maps.
 
-<img src=images/image.png width="60%">
+<img src=images/image263.png width="100%">
 
 
 
@@ -1110,13 +1110,13 @@ And now let’s see another example.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image265.png width="100%">
 
 This view is called the “index”. This is another example of things that you can do using EBX public API. The idea is that you can browse your data based on the first letter of the company name. Let’s directly access the companies that are starting with the letter “J”.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image267.png width="100%">
 
 
 # Guided Lab 5: Products 
@@ -1128,14 +1128,14 @@ We are directly positioned to the companies starting with the “J” letter. Le
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image269.png width="100%">
 
 
 Here we manage a list of “Burgers”. Let’s double click on the first line to access the record details.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image271.png width="100%">
 
 
 
@@ -1147,27 +1147,27 @@ They are stored in a “Drive”, which is by default a folder on the applicatio
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image273.png width="100%">
 
 
 But here, what we want to illustrate is a feature that is not “out-of-the-box”. If you remember, we presented the history feature, to display the audit trail. This screen is sometimes a bit too complicated for a business user, because it displays technical information. Thanks to the EBX public API, we can make it user friendly. Please click on this button.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image275.png width="100%">
 
 Here we can easily understand what happened. And it’s also possible to understand what happened in terms of relations. Click on the “Ingredients - Products - History” tab, to understand how the ingredients were added to this product.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image277.png width="100%">
 
 
 Here we can easily understand what happened, i.e, how the product was built. Let’s see another example of what you can do with the public API. The feature is available at the “Products” table level.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image279.png width="100%">
 
 
 ## Task 2: Products – mosaic
@@ -1176,12 +1176,12 @@ Let’s launch the feature called “Mozaic”
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image281.png width="100%">
 
 
 This is another way to display the data. The idea here is to display the products by using the associated picture. You can click on a picture to access the product details. But let’s go back to the “Products” and see a final example.
 
-<img src=images/image.png width="60%">
+<img src=images/image283.png width="100%">
 
 
 ## Task 3: Products – compare
@@ -1190,14 +1190,14 @@ Select some products.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image285.png width="100%">
 
 
 In the “Actions” menu, select “Compare products”.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image287.png width="100%">
 
 
 Out-of-the-box, EBX provides a comparison feature. But this feature has some limitations:
@@ -1211,7 +1211,7 @@ Out-of-the-box, EBX provides a comparison feature. But this feature has some lim
 So, the idea here is to mimic what you can find on Web Sites (like Amazon for example).
 
 
-<img src=images/image.png width="60%">
+<img src=images/image289.png width="100%">
 
 
 Now, let’s illustrate another EBX feature, which is about KPIs and Dashboard management.
@@ -1220,7 +1220,7 @@ Click on “Dashboard”, located under “Companies”.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image291.png width="100%">
 
 
 
@@ -1241,15 +1241,15 @@ These indicators are basically on 2 things:
 *   The activity (Average Workflow execution time, Longest task in a Workflow) 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image293.png width="100%">
 
 The idea is that you can place these KPIs wherever you want, define when they should be computed (real-time when a dashboard is displayed, on-demand, …), and then configure Dashboards to directly display the KPI results. Each user can have access to multiple Dashboards. To go further, you can also code your own KPIs and add them to the library.
 
 
 
-<img src=images/image.png width="60%">
+<img src=images/image295.png width="100%">
 
 
 As the KPI results are stored in the database, they can be accessed directly at the database level using SQL requests, for example to feed Analytics solutions or any other application.
 
-<img src=images/image.png width="60%">
+<img src=images/image297.png width="100%">
