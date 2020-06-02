@@ -1256,3 +1256,5 @@ The idea is that you can place these KPIs wherever you want, define when they sh
 As the KPI results are stored in the database, they can be accessed directly at the database level using SQL requests, for example to feed Analytics solutions or any other application.
 
 <img src=images/image297.png width="100%">
+
+Congratulations, you have finished your first EBX workshop!
