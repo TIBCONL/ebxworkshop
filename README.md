@@ -169,14 +169,15 @@ Find the right resources like: webinars, whitepapers, data sheets, analysts repo
 
 The EBX workshop is intended to introduce you to a pre-configured EBX environment in which you can see what opportunities this environment offers you. You are provided with the simplicity with which you can navigate and retrieve and take data with you. During the workshop you will learn about the many aspects and functionalities of EBX during the hands-on part of the workshop. You work on gaining insights and understanding of this existing environment. 
 
-When you implement EBX, you will start with the data model of your environment and you can determine the complete layout itself and include standard available options based on implementation and usage.
+
+lement EBX, you will start with the data model of your environment and you can determine the complete layout itself and include standard available options based on implementation and usage.
 
 
-<kbd>
+<kbd><bold>
 ATTENTION
 The environment you are using is a pre-configured EBX environment. It is just an example of how EBX can be used in a live environment.
 
-</kbd>
+</bold></kbd>
 
 
 <img src=images/image019.png width="100%">
