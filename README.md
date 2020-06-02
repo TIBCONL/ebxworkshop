@@ -172,10 +172,12 @@ The EBX workshop is intended to introduce you to a pre-configured EBX environmen
 When you implement EBX, you will start with the data model of your environment and you can determine the complete layout itself and include standard available options based on implementation and usage.
 
 
-```
+<kbd>
 ATTENTION
 The environment you are using is a pre-configured EBX environment. It is just an example of how EBX can be used in a live environment.
-```
+
+</kbd>
+
 
 <img src=images/image019.png width="100%">
 
