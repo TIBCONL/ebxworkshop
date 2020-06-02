@@ -965,7 +965,7 @@ To change the data model, you need to change perspective first.
 In this new perspective modify the database by selecting [CPTY] Companies.
 
 
-<img src=images/image223.png width=100%">
+<img src=images/image223.png width="100%">
 
 
 The table [CPTY] Companies shows you information about the defined attributes for the table, used Roles, Reference data and Technical data. Select Companies to see the defined attributes.
@@ -1051,7 +1051,7 @@ Select companies and look at the changed data model.
 
 
 
-<<img src=images/image249.png width="100%">
+<img src=images/image249.png width="100%">
 
 
 
@@ -1236,7 +1236,7 @@ This screen displays KPI results.
 
 These KPIs are coming from a library of indicators that are provided by EBX.
 
-These indicators are basically on 2 things:
+These indicators concern mainly 2 things:
 
 
 
