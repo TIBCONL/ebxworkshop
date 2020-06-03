@@ -16,9 +16,49 @@
                 Authors	:	László Darázsdi, Steven van der Kroft
 
 **Table of Contents**
-
-
-[TOC]
+   * [Workshop](#workshop)
+   * [EBX](#ebx)
+   * [Lab Guide](#lab-guide)
+   * [Introduction](#introduction)
+      * [TIBCO Connected Intelligence Platform](#tibco-connected-intelligence-platform)
+      * [How do you bring all your data together?](#how-do-you-bring-all-your-data-together)
+   * [TIBCO EBX](#tibco-ebx)
+      * [Why using a master data, reference data, or metadata solution?](#why-using-a-master-data-reference-data-or-metadata-solution)
+      * [Manage and share your data assets](#manage-and-share-your-data-assets)
+      * [Configure your data management applications](#configure-your-data-management-applications)
+      * [TIBCO EBX is an ‘all-in-one’ platform](#tibco-ebx-is-an-all-in-one-platform)
+      * [Finding information about TIBCO EBX](#finding-information-about-tibco-ebx)
+   * [THIS WORKSHOP](#this-workshop)
+      * [Purpose](#purpose)
+      * [What you will learn](#what-you-will-learn)
+   * [Guided Lab 1: Getting started](#guided-lab-1-getting-started)
+      * [Task 1: Accessing your environment](#task-1-accessing-your-environment)
+   * [Guided Lab 2: Company](#guided-lab-2-company)
+      * [Task 1: Examining your company attributes](#task-1-examining-your-company-attributes)
+      * [Task 2: Filtering and comparing](#task-2-filtering-and-comparing)
+      * [Task 3: Exchanging Data](#task-3-exchanging-data)
+      * [Task 4: Advanced Search](#task-4-advanced-search)
+      * [Task 5: Detailed Records](#task-5-detailed-records)
+      * [Task 6: Company Parent](#task-6-company-parent)
+      * [Task 7: Company Address](#task-7-company-address)
+      * [Task 8: Hierarchies – country by regions](#task-8-hierarchies--country-by-regions)
+      * [Task 9: Hierarchies – subsidiary view](#task-9-hierarchies--subsidiary-view)
+      * [Task 10: Hierarchies – create a new view](#task-10-hierarchies--create-a-new-view)
+      * [Task 11: Visualize – value &amp; relationship](#task-11-visualize--value--relationship)
+      * [Task 12: Visualize – data model](#task-12-visualize--data-model)
+   * [Guided Lab 3: Modifing your data model](#guided-lab-3-modifing-your-data-model)
+      * [Task 1: Data model – add field with validation rule](#task-1-data-model--add-field-with-validation-rule)
+      * [Task 2: Data model – view updated data model](#task-2-data-model--view-updated-data-model)
+      * [Task 3: Data model – select record to view updated screen and populate new field](#task-3-data-model--select-record-to-view-updated-screen-and-populate-new-field)
+   * [Guided Lab 4: Customer](#guided-lab-4-customer)
+      * [Task 1: Customer feature – display data geo](#task-1-customer-feature--display-data-geo)
+      * [Task 2: Customer feature – display data index](#task-2-customer-feature--display-data-index)
+   * [Guided Lab 5: Products](#guided-lab-5-products)
+      * [Task 1: Products – product data](#task-1-products--product-data)
+      * [Task 2: Products – mosaic](#task-2-products--mosaic)
+      * [Task 3: Products – compare](#task-3-products--compare)
+   * [Guided Lab 6: Dashboard](#guided-lab-6-dashboard)
+      * [Task 1: KPI Dashboard](#task-1-kpi-dashboard)
 
 
 
